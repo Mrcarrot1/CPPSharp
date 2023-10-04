@@ -6,6 +6,6 @@ public class Program
 {
     public static void Main(string[] args)
     {
-	Console.WriteLine(SQUARE(4));
+	    Console.WriteLine(SQUARE(4));
     }
 }
